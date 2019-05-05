@@ -1,0 +1,13 @@
+- Spiel funktioniert fehlerfrei, auch über Internet
+- Spiel kann beliebig oft neu gestartet werden
+- Spieler können jederzeit über ESC aufgeben
+- falsch gesetzte Steine werden rot markiert
+- Runde kann wieder auf Anfang gesetzt werden, falls der Gedanke doch nicht klappt
+- Spieler kann seine eigenen Steine auf der Hand sortieren
+- Timer am Anfang der Runde, wie lange der Spieler schon am Zug ist
+- Hintergrundmusik und Sounds für Buttons (Lautstärke ist mit Regler im Menü einstellbar)
+- Hintergrundanimation in Menü, Login und Spiel sowie Feuerwerk bei Spielende
+- Regeln sind im Menü einsehbar
+- falsche Eingaben im Login werden dem Spieler im entsprechenden Feld (rot umrandet) angezeigt
+- schon gestarteten oder vollen Spielen kann nicht beigetreten und dem Nutzer wird eine
+  passende Warnung angezeigt
